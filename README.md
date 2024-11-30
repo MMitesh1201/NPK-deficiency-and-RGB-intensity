@@ -26,7 +26,7 @@ This project helps farmers and agricultural professionals identify nutrient defi
 - Scikit-learn for model evaluation
 
 ## 📧 Contact
-Your Name - [MMitesh1201](https://github.com/MMitesh1201)
+Mitesh Agrawal- [MMitesh1201](https://github.com/MMitesh1201)
 
 Project Link: [https://github.com/MMitesh1201/NPK-deficiency-and-RGB-intensity](https://github.com/MMitesh1201/NPK-deficiency-and-RGB-intensity)
 
