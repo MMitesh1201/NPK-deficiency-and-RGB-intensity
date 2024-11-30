@@ -25,6 +25,11 @@ This project helps farmers and agricultural professionals identify nutrient defi
 - Pandas for data manipulation
 - Scikit-learn for model evaluation
 
+## 📧 Contact
+Your Name - [MMitesh1201](https://github.com/MMitesh1201)
+
+Project Link: [https://github.com/MMitesh1201/NPK-deficiency-and-RGB-intensity](https://github.com/MMitesh1201/NPK-deficiency-and-RGB-intensity)
+
 ## 📦 Installation
 
 ```bash
@@ -46,7 +51,3 @@ source venv/bin/activate
 # Install required packages
 pip install -r requirements.txt
 
-## 📧 Contact
-Your Name - [MMitesh1201](https://github.com/MMitesh1201)
-
-Project Link: [https://github.com/MMitesh1201/NPK-deficiency-and-RGB-intensity](https://github.com/MMitesh1201/NPK-deficiency-and-RGB-intensity)
